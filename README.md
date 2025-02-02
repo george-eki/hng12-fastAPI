@@ -33,10 +33,12 @@ Response Format (200 OK):
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "
 }
-Reference Link
+
+**Reference Link**
 
 Learn more about FastAPI and backend development: Python Developers
 
-License
+
+**License**
 
 This project is open-source and free to use.
